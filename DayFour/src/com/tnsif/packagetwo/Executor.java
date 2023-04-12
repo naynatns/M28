@@ -30,10 +30,4 @@ public class Executor extends Base {
 }
 
 
-class a extends Base
-{
-	public void method()
-	{
-		m
-	}
-}
+

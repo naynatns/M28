@@ -16,6 +16,7 @@ public class LinkedListDemo {
 		ll.add(2, 60);
 		ll.addLast(25);
 		ll.add(30);
+		ll.add(45);
 
 		System.out.println("Number List is " + ll);
 
@@ -50,5 +51,6 @@ public class LinkedListDemo {
 		Collections.reverse(ll);
 		System.out.println("Number List in Descending order is " + ll);
 
-	}
+	
+}
 }

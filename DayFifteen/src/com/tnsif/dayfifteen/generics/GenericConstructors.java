@@ -4,8 +4,9 @@ package com.tnsif.dayfifteen.generics;
 public class GenericConstructors {
 private double v;
 
+
 //Generic Constructors
-public <T extends Number>GenericConstructors(T t)
+public <T extends Number> GenericConstructors(T t)
 {
 	v=t.doubleValue();
 }
@@ -23,5 +24,7 @@ public static void main(String[] args) {
 	  
 	  GenericConstructors obj1=new GenericConstructors(136.8F);
 	  obj1.show();
+	  
+	  
 	}
 }

@@ -17,7 +17,6 @@ class normal
 }
 
 
-
 //Generic Class
 class GenericTest<T>
 {

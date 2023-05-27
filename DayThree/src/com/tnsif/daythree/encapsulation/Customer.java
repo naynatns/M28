@@ -1,6 +1,9 @@
 package com.tnsif.daythree.encapsulation;
 
+
 public class Customer {
+	
+	
 	private String customerName;
 	private int customerId;
 	private String customerCity;
